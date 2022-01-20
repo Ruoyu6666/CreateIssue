@@ -5,7 +5,7 @@
  - Shortcut Windows key+R and enter `rundll32 sysdm.cpl,EditEnvironmentVariables`
  - Edit Path environment variable: Copy the path where `node.exe` locates and add to environment variable of Path
  
-![image](https://user-images.githubusercontent.com/74153282/150339732-dec20e47-6171-4c3e-8ee5-84dced97ee84.png)
+![tempsnip](https://user-images.githubusercontent.com/74153282/150343343-2e7e830a-ebea-4f78-9275-cfc743fc2da7.png)
  
  ![image](https://user-images.githubusercontent.com/74153282/150340176-bddbc450-caf3-4313-9c64-3a75b6a681e7.png)
 
