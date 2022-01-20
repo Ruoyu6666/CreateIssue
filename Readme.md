@@ -9,7 +9,7 @@
  
 ![tempsnip2](https://user-images.githubusercontent.com/74153282/150344410-b7f051fe-d423-489e-a61d-1e0ca9f3e87b.png)
 
-3. Open a new command window (Win+R) and type cmd. Enter `node -v` and `npm -v` to verify the installation. 
+3. Open a new command window (Win+R) and type cmd. Enter `node -v` and `npm -v` in command line to verify the installation. 
 
 ## InstallvgithubCsvTools
 
