@@ -1,9 +1,9 @@
 ## Install Node.js
 
 1. Download node.js [Windows Binary (.zip)](https://nodejs.org/en/download/) and extract it to desired location
-2. Add path of the nodejs folder to the Path environment variable
- - Shortcut Windows key+R and enter `rundll32 sysdm.cpl,EditEnvironmentVariables`
- - Edit Path environment variable: Copy the path where `node.exe` locates and add to environment variable of Path
+2. Add path of the nodejs folder to the Path environment variable as follow:
+  - Shortcut Windows key+R and enter `rundll32 sysdm.cpl,EditEnvironmentVariables`
+  - Edit Path environment variable: Copy the path where `node.exe` locates and add to environment variable of Path
  
 ![tempsnip](https://user-images.githubusercontent.com/74153282/150343343-2e7e830a-ebea-4f78-9275-cfc743fc2da7.png)
  
