@@ -2,10 +2,12 @@
 
 1. Download node.js [Windows Binary (.zip)](https://nodejs.org/en/download/) and extract it to desired location
 2. Add path of the nodejs folder to the PATH environment variable
- 
+ - Shortcut Windows key+R and enter `rundll32 sysdm.cpl,EditEnvironmentVariables`
+ - Edit Path environment variable
+![image](https://user-images.githubusercontent.com/74153282/150339732-dec20e47-6171-4c3e-8ee5-84dced97ee84.png)
+ - Add 
 3. Open a new command window (Windows key+R and type cmd)
 
-![image](https://user-images.githubusercontent.com/74153282/150338937-eab93d56-acba-48c9-8006-e39f31ca2acb.png)
 
 
 4. Check out the `notifications-starter` branch, then run the following commands in the project folder:
