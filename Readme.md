@@ -1,14 +1,10 @@
-# APITools
-Hello! This is a test repo for various tools related to APIs (specifically so far the GitHub API).
+## Steps for setting githubCsvTools and bulk creating issues reading from Excel.
 
-[Webinar Recording for Women Who Code Front End](https://zoom.us/rec/share/x9RIf6PO6T9IYK_qtwLVZIUqOYfkT6a80yId-PNfmU2-WeEARuypanXZmE2NKWop)
+## Install Node.js
 
-[Presentation Slides](https://docs.google.com/presentation/d/1tX609xC3losnKLCF6Atq-fpXtqpYaGMHe_rmEcW34nI/edit?usp=sharing)
+1. Download node.js [Windows Binary (.zip)](https://nodejs.org/en/download/) and extract it to desired location
+2. Check out the `notifications-starter` branch, then run the following commands in the project folder:
 
-Also presented at:
-
-- [ngALT @ DevNexus](https://twitter.com/angelmbanks/status/1227987552772202497)
-- [Women Techmakers Atlanta Meetup](https://twitter.com/WTM_Atl/status/1232381653009477632)
 
 ## Talk Code-Along Instructions
 
