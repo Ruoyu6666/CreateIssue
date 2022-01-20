@@ -7,7 +7,7 @@
  
 ![tempsnip](https://user-images.githubusercontent.com/74153282/150343343-2e7e830a-ebea-4f78-9275-cfc743fc2da7.png)
  
- ![image](https://user-images.githubusercontent.com/74153282/150340176-bddbc450-caf3-4313-9c64-3a75b6a681e7.png)
+![tempsnip2](https://user-images.githubusercontent.com/74153282/150344410-b7f051fe-d423-489e-a61d-1e0ca9f3e87b.png)
 
 3. Open a new command window (Win+R) and type cmd. Type node -v and npm -v to verify the installation. 
 
@@ -15,3 +15,9 @@
 
 4. Since there can be error casused by firewall during installing, type `npm config set strict-ssl false` in command line
 5. Type 'npm install -g github-csv-tools' in command line to install github-csv-tools
+
+## Generate a new token in GitHub
+
+6. Go to setting and generate a oken. Check the box next to “repo” to select all options to allow edit of repositories. Copy the generated token.
+
+## Create a Dataset of Issues
