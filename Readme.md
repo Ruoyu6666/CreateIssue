@@ -9,7 +9,7 @@
  
 ![tempsnip2](https://user-images.githubusercontent.com/74153282/150344410-b7f051fe-d423-489e-a61d-1e0ca9f3e87b.png)
 
-3. Open a new command window (Win+R) and type cmd. Type node -v and npm -v to verify the installation. 
+3. Open a new command window (Win+R) and type cmd. Enter `node -v` and `npm -v` to verify the installation. 
 
 ## InstallvgithubCsvTools
 
@@ -18,6 +18,9 @@
 
 ## Generate a new token in GitHub
 
-6. Go to setting and generate a oken. Check the box next to “repo” to select all options to allow edit of repositories. Copy the generated token.
+6. Go to setting and generate a oken. Check the box next to “repo” to select all options to allow edit of repositories. Copy the generated token when needed
 
 ## Create a Dataset of Issues
+
+7. Create a CSV and add the column headers, like: title, body, assignee, state, milestone, labels
+8. Enter `githubCsvTools myFile.csv` in command line, replacing “myFile.csv” with the path of the targeted file.
