@@ -1,52 +1,17 @@
 ## Install Node.js
 
 1. Download node.js [Windows Binary (.zip)](https://nodejs.org/en/download/) and extract it to desired location
-2. Add path of the nodejs folder to the PATH environment variable
+2. Add path of the nodejs folder to the Path environment variable
  - Shortcut Windows key+R and enter `rundll32 sysdm.cpl,EditEnvironmentVariables`
- - Edit Path environment variable
+ - Edit Path environment variable: Copy the path where `node.exe` locates and add to environment variable of Path
  
 ![image](https://user-images.githubusercontent.com/74153282/150339732-dec20e47-6171-4c3e-8ee5-84dced97ee84.png)
  
- - Copy the path of file where `node.exe` locates
- 
  ![image](https://user-images.githubusercontent.com/74153282/150340176-bddbc450-caf3-4313-9c64-3a75b6a681e7.png)
 
-3. Open a new command window (Windows key+R and type cmd)
+3. Open a new command window (Win+R) and type cmd. Type node -v and npm -v to verify the installation. 
 
+## InstallvgithubCsvTools
 
-
-4. Check out the `notifications-starter` branch, then run the following commands in the project folder:
-
-
-## Talk Code-Along Instructions
-
-If you are here for a code-along portion at a talk, welcome! I'll go over these instructions in the talk, but in case you miss something or are watching from home, here are the steps for coding along.
-
-1. Fork this repo and clone it locally.
-
-2. Check out the `notifications-starter` branch, then run the following commands in the project folder:
-
-`npm install`
-
-`touch .env`
-
-This repository has two dependencies -- `dotenv` and `node-fetch`. `Dotenv` is for protecting your GitHub token and `node-fetch` is for making API calls. Feel free to use `axios`, another package, or `Node` to make the calls if you prefer.
-
-4. Make sure to add `.env` to your `.gitginore` if you plan to push this code to GitHub.
-
-5. Once your GitHub access token is generated, save it to your `.env` file as
-
-`TOKEN=<TOKEN HERE>`
-
-6. Code in `GetNotifications.js` using the comment prompts to write a script that gets your notifications for a repository, saves any of the type `security-alert` to a file, then marks those notifications as read.
-
-## Scripts
-
-Run the following scripts from the `master` branch in the root project directory.
-
-### Create Issues from JSON 
-
-File: CreateIssueFromJSON.js
-
-`cd CreateIssuesFromJSON
-node CreateIssuesFromJSON.js`
+4. Since there can be error casused by firewall during installing, type `npm config set strict-ssl false` in command line
+5. Type 'npm install -g github-csv-tools' in command line to install github-csv-tools
