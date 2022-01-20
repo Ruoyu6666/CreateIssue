@@ -4,8 +4,13 @@
 2. Add path of the nodejs folder to the PATH environment variable
  - Shortcut Windows key+R and enter `rundll32 sysdm.cpl,EditEnvironmentVariables`
  - Edit Path environment variable
+ 
 ![image](https://user-images.githubusercontent.com/74153282/150339732-dec20e47-6171-4c3e-8ee5-84dced97ee84.png)
- - Add 
+ 
+ - Copy the path of file where `node.exe` locates
+ 
+ ![image](https://user-images.githubusercontent.com/74153282/150340176-bddbc450-caf3-4313-9c64-3a75b6a681e7.png)
+
 3. Open a new command window (Windows key+R and type cmd)
 
 
