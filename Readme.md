@@ -1,9 +1,14 @@
-## Steps for setting githubCsvTools and bulk creating issues reading from Excel.
-
 ## Install Node.js
 
 1. Download node.js [Windows Binary (.zip)](https://nodejs.org/en/download/) and extract it to desired location
-2. Check out the `notifications-starter` branch, then run the following commands in the project folder:
+2. Add path of the nodejs folder to the PATH environment variable
+ 
+3. Open a new command window (Windows key+R and type cmd)
+
+![image](https://user-images.githubusercontent.com/74153282/150338937-eab93d56-acba-48c9-8006-e39f31ca2acb.png)
+
+
+4. Check out the `notifications-starter` branch, then run the following commands in the project folder:
 
 
 ## Talk Code-Along Instructions
