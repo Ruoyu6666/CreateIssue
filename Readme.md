@@ -14,7 +14,7 @@
 ## InstallvgithubCsvTools
 
 4. Since there can be error casused by firewall during installing, type `npm config set strict-ssl false` in command line
-5. Type 'npm install -g github-csv-tools' in command line to install github-csv-tools
+5. Type `npm install -g github-csv-tools` in command line to install github-csv-tools
 
 ## Generate a new token in GitHub
 
