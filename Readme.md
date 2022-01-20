@@ -23,4 +23,4 @@
 ## Create a Dataset of Issues
 
 7. Create a CSV and add the column headers, like: title, body, assignee, state, milestone, labels
-8. Enter `githubCsvTools myFile.csv` in command line, replacing “myFile.csv” with the path of the targeted file.
+8. Enter `githubCsvTools myFile.csv` in command line, replacing “myFile.csv” with the path of the targeted file. Then enter token, user or organization and repository as requested
