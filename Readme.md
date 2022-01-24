@@ -13,12 +13,12 @@
 
 ## InstallvgithubCsvTools
 
-4. Since there can be error casused by firewall during installing, type `npm config set strict-ssl false` in command line
-5. Type `npm install -g github-csv-tools` in command line to install github-csv-tools
+4. Enter `npm config set strict-ssl false` in command line to avoid error casused by firewall during installing package. 
+5. Enter `npm install -g github-csv-tools` in command line to install github-csv-tools
 
 ## Generate a new token in GitHub
 
-6. Go to setting and generate a oken. Check the box next to “repo” to select all options to allow edit of repositories. Copy the generated token when needed
+6. Go to setting and generate a oken in Github. Check the box next to “repo” to select all options to allow edit of repositories. Copy the generated token.
 
 ## Create a Dataset of Issues
 
@@ -27,4 +27,4 @@
    
 8. Enter `githubCsvTools myFile.csv` in command line, replacing “myFile.csv” with the path of the targeted csv file. Then enter token, user or organization and repository as requested
 
-A sample csv are given in this repository for testing. 
+A sample file.csv is given in this repository for testing. 
