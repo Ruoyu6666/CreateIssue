@@ -1,0 +1,3 @@
+title,body, assignee,milestone,labels
+"Create document","","Ruoyu6666","","2 SP,duplicate"
+"Review document","","Ruoyu6666","","4 SP,documentation,invalid"
