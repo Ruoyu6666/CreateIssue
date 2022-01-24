@@ -24,7 +24,7 @@
 
 ## Create a Dataset of Issues
 
-7. Use `CreateIssue.xlsm` and fill out (market) title, body, assignee, milestone and labels. Copy the generated content in Column G and paste it to an empty text file and save it to test.txt.
+7. Use `CreateIssue.xlsm` and fill out (market) title, body, assignee, milestone and labels. Copy the generated content in Column G and paste it to an empty text file and save it to test.txt. **Note** make sure there's no empty line (especially at the end) in the text file.
 
 8. Enter `githubCsvTools test.txt` in command line, replacing `test.txt` with the path of the targeted file in real use. Then enter token, user/organization and repository as requested.
 
