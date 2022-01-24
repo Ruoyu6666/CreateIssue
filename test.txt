@@ -1,9 +1,0 @@
-title,label
-"Create dummy ruleset / set up project in IBM Rule Designer","question, bug"
-"Implementation of the ruleset","bug"
-"Implement scorecard(s)","enhancement"
-"Implement BPRs/LRs","documentation"
-"In case: Implement additional processes","documentation"
-"Review implementation","bug,enhancement,question"
-"Test documentation","documentation"
-"Testing of the ruleset","documentation"
