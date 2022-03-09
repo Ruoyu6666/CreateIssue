@@ -24,8 +24,8 @@
 
 ## Create a Dataset of Issues
 
-7. Use `CreateIssue.xlsm` and fill out (market) title, body, assignee, milestone and labels. Copy the generated content in Column G and paste it to an empty text file and save it to test.txt. **NOTE** make sure there's no empty line (especially at the end) in the text file.
+7. Create a csv file and fill out title, body, assignee, milestone and labels. 
+**NOTE**.
 
-8. Enter `githubCsvTools test.txt` in command line, replacing `test.txt` with the path of the targeted file in real use. Then enter token, user/organization and repository as requested.
+8. Enter `githubCsvTools --github_enterprise https://git.daimler.com/api/v3 test.csv` in command line, replacing `test.csv` with the path of the targeted file in real use. Then enter token, organization and repository as requested.
 
-  A sample file.csv and a sample text.txt are given in this repository for testing.
