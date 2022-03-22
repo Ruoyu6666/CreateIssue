@@ -14,9 +14,9 @@
  
 ![tempsnip2](https://user-images.githubusercontent.com/74153282/150344410-b7f051fe-d423-489e-a61d-1e0ca9f3e87b.png)
 
-3. Open a new command window (Win+R and enter `cmd`). Enter `node -v` and `npm -v` in command line to verify the installation. 
-
 ## Install githubCsvTools
+
+3. Open a new command window (Win+R and enter `cmd`). Enter `node -v` and `npm -v` in command line to verify the installation of Node.js 
 
 4. Enter `npm config set strict-ssl false` in command line to avoid error casused by firewall during installing package. 
 
