@@ -3,7 +3,7 @@
 
 ![Unbenannt5](https://user-images.githubusercontent.com/74153282/159438381-3915af8d-c197-4e96-91a6-697a6bd74811.png)
 
-## Install Node.js (With limited Access)
+## Install Node.js (With Limited Access)
 1. Download node.js [Windows Binary (.zip)](https://nodejs.org/en/download/) and extract it to desired location
 
 2. Add path of the nodejs folder to the Path environment variable as follow:
