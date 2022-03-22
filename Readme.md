@@ -1,5 +1,5 @@
 ## Install Node.js
-
+# Method 1
 1. Download node.js [Windows Binary (.zip)](https://nodejs.org/en/download/) and extract it to desired location
 
 2. Add path of the nodejs folder to the Path environment variable as follow:
